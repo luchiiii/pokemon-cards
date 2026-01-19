@@ -1,0 +1,58 @@
+body {
+    background-color: #e0f0ff;
+    color: #003366;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #0055aa;
+}
+
+body {
+    background-color: #e0f0ff;
+    color: #003366;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #0055aa;
+}
+
+body {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+.card {
+    background-color: #3c3c3c;
+    border-color: #4c4c4c;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+button {
+    background-color: #5a5a5a;
+    color: white;
+}
+
+.type {
+    background-color: #4c4c4c;
+    color: #fff;
+}body {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+button {
+    background-color: #4a90e2;
+    color: white;
+}
+
+.type {
+    background-color: #e0e0e0;
+    color: #333;
+}
